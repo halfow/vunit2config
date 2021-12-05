@@ -1,0 +1,17 @@
+# Editors
+.vscode
+
+
+# HDL...
+hdl-prj.json
+vhdl_ls.toml
+[._]hdl_checker.config
+[._]hdl_checker
+vunit_out
+
+# Python
+.tox
+.mypy_cache
+__pycache__
+*.egg-info
+env
